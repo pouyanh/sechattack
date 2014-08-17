@@ -8,10 +8,19 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {},
+    "require": {
+        "pattack/lib-php": "master",
+        "pattack/lib-system": "master"
+    },
     "autoload": {
         "psr-0": {
             "": "src/"
         }
-    }
+    },
+    "repositories" : [
+        {
+            "type": "composer",
+            "url": "http://satis.local"
+        }
+    ]
 }
