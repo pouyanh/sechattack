@@ -1,0 +1,19 @@
+{
+    "database": {
+        "hostname": "",
+        "username": "",
+        "password": "",
+        "name": ""
+    },
+    "volt": {
+        "path": "%ROOT_PATH%/var/volt"
+    },
+    "assets": {
+        "js": {
+            "path": "%ROOT_PATH%/front/js"
+        },
+        "css": {
+            "path": "%ROOT_PATH%/front/css"
+        }
+    }
+}

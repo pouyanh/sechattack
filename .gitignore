@@ -1,0 +1,10 @@
+.idea
+*.iml
+
+nbproject
+
+vendor
+composer.phar
+
+!.2track
+/var

@@ -1,0 +1,17 @@
+{
+    "name": "pattack/sechattack",
+    "description": "Pattack Secure Chat",
+    "authors": [
+        {
+            "name": "Pouyan Heyratpour",
+            "email": "P.Heyratpour@Gmail.Com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "": "src/"
+        }
+    }
+}
